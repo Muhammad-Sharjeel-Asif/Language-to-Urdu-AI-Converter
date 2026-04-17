@@ -1,14 +1,3 @@
----
-title: Multilingual to Urdu Translator
-emoji: 🌐
-colorFrom: green
-colorTo: blue
-sdk: gradio
-sdk_version: 4.0.0
-app_file: app.py
-pinned: false
----
-
 # 🌐 Multilingual to Urdu Translator
 
 This application translates text from multiple languages into Urdu using **Helsinki-NLP MarianMT models**.
